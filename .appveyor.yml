@@ -5,7 +5,8 @@ stack: jdk 11
 branches:
   only:
     - master
-    - AppVeyor-CI
+    - appveyor
+
 
 build: off
 
